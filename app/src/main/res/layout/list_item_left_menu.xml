@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#31312F"
+    android:gravity="center">
+
+
+    <TextView
+        android:id="@+id/tv_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:padding="10dp"
+        android:textSize="24sp"
+        android:drawablePadding="5dp"
+        android:textColor="@color/text_left_menu_selector"
+        android:drawableLeft="@drawable/btn_menu_selector"/>
+</LinearLayout>
